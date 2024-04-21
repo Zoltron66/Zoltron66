@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!! 👋
+
+I’m currently learning C++ and Unreal Engine 5.
 
 <!--
 **Zoltron66/Zoltron66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
